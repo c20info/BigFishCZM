@@ -8,10 +8,12 @@ public class Animale extends JPanel {
     protected int vita;
     protected String nome;
 
+    /*
     public Animale(String nome, int velocita)
     {
         this.nome = nome;
         this.velocita = velocita;
 
     }
+    */
 }
